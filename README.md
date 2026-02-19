@@ -25,7 +25,3 @@ The game is structured into modular functions for high readability and maintaina
 ### Prerequisites
 * Python 3.x installed on your machine.
 
-### Installation
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/your-username/tic-tac-toe-python.git](https://github.com/your-username/tic-tac-toe-python.git)
